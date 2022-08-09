@@ -7,6 +7,7 @@ library StandardAddresses {
 
     // SEURO stablecoin
     address constant SEURO_ADDRESS = 0x4A8D1B11A6F431b8eBa69E617282aF1849F63052;
+    address constant SEURO_GOERLI = 0x9f9A51FAFc309E53d0D30170F13C589B07699C69;
 
     // Stage 1
     // Curve offering and liquidity bootstrapping
