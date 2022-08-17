@@ -12,7 +12,7 @@
     },
     "stage1": {
       "comment": "The faucet address is a token too: it's called the BEDS token! You can request it using `mint` at goerli.etherscan.io! Max 100 per user",
-      "FAUCET": "0xCCEB862b0B2Bad8D5c9fEd7140899323b5501E6F",
+      "FAUCET": "0x54EB6773DB43169829415f47b0bd1d92c7b174E7",
 
       "SEURO_OFFERING": "0xFAEf2A1dE66716fafB4B00C9808CC8D8970aBb72",
       "SEURO_CALCULATOR": "0x82405D9336a944cB4c2f9f8F75CD5651199fA31E",
