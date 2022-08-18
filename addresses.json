@@ -6,14 +6,12 @@
 
   "goerli": {
     "token": {
-      "TST": "0x5290C207402Be34C193e84241a6022EcbD064530",
+      "comment": "Fake TST and Fake USDT - the faucet is the token. Request at etherscan!",
+      "FTST": "0xE9C8Ec4193C8018A682844DC8D1D242ce1fD6F18",
+      "FUSDT": "0x3b6dC639056F0f7Df428Cf529eE53C2B5C4A833a",
       "SEURO": "0x5D2bef2708ef0AE10E783F9161572a31cE0B4A09",
-      "USDT": "0xa5733b4B4751acfeb5a575f714c6caC40b150500"
     },
     "stage1": {
-      "comment": "The faucet address is a token too: it's called the BEDS token! You can request it using `mint` at goerli.etherscan.io! Max 100 per user",
-      "FAUCET": "0x54EB6773DB43169829415f47b0bd1d92c7b174E7",
-
       "SEURO_OFFERING": "0xFAEf2A1dE66716fafB4B00C9808CC8D8970aBb72",
       "SEURO_CALCULATOR": "0x82405D9336a944cB4c2f9f8F75CD5651199fA31E",
       "TOKEN_MANAGER": "0xfdd43C3a21337DA1827e883Ecf23B2bfCB64E1a8",
