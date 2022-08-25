@@ -14,7 +14,7 @@
 		},
 		"CONTRACT_ADDRESSES": {
 			"SEuroOffering": "0xd86dD86b57fb8bc9A52cA23DFE6CB65E927B2d0E",
-			"SEuroCalculator": "0xE89e5B9b0f4966ac7D80cFbd61c9087d02fc3978",
+			"SEuroCalculator": "0xBeE2994B1b8c454a7e87aD4376342CD4DE6b2d6C",
 			"TokenManager": "0x63819fcd564e334dAea642CE0d4C44a4341cA056",
 			"BondingCurve": "0xc0cB2f8616cE57ADb5e6fb01BfC5A39DEae97C01",
 			"BondingEvent": "0xb3DEA8aF582eFc824e398761e81AC8176e76e3C9",
