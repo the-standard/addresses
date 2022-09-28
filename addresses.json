@@ -4,7 +4,7 @@
 			"TST": "0xE9C8Ec4193C8018A682844DC8D1D242ce1fD6F18",
 			"SEURO": "0x5D2bef2708ef0AE10E783F9161572a31cE0B4A09"
 		},
-		"CONTRACT_ADDRESSES": { // test addresses for frontend mainnet testing
+		"CONTRACT_ADDRESSES": {
 			"SEuroOffering": "0x3c4345d98f8bc2530e272983f2bcebc8fc002623",
 			"SEuroCalculator": "0x8964be76e1796fa009d1a9bd88d0295b504f8e84",
 			"TokenManager": "0xd5a4eb8f2569a2cbd68d6fc55e41cf3e2a4eb9fb",
