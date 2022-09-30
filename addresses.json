@@ -8,7 +8,7 @@
 			"SEuroOffering": "0x3c4345d98f8bc2530e272983f2bcebc8fc002623",
 			"SEuroCalculator": "0x8964be76e1796fa009d1a9bd88d0295b504f8e84",
 			"TokenManager": "0xd5a4eb8f2569a2cbd68d6fc55e41cf3e2a4eb9fb",
-			"BondingCurve": "0x85851f9b19ba4416acdd8fc7b2ef284e4d5277f8"	
+			"BondingCurve": "0x85851f9b19ba4416acdd8fc7b2ef284e4d5277f8",
 			"BondingEvent": "0xb3DEA8aF582eFc824e398761e81AC8176e76e3C9",
 			"BondStorage": "0xD0B96C3C16C69CAEe559afF4bF00aC56c51e7b7d",
 			"StandardTokenGateway": "0xF73E2Ff8764A2534bdC385B9a0EdBEF4f45903cc",
