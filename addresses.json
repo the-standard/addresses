@@ -9,10 +9,10 @@
 			"SEuroCalculator": "0x8964be76e1796fa009d1a9bd88d0295b504f8e84",
 			"TokenManager": "0xd5a4eb8f2569a2cbd68d6fc55e41cf3e2a4eb9fb",
 			"BondingCurve": "0x85851f9b19ba4416acdd8fc7b2ef284e4d5277f8",
-			"BondingEvent": "0x677637Ae03DC535a4ad81e31B3f4Af4F2183696f",
-			"BondStorage": "0xEE77E2E05a49bFaB9021eAfD9cDb34206296a3e1",
-			"StandardTokenGateway": "0x45FE0d57757580CcdC67099005222eb2E4CFfACa",
-			"OperatorStage2": "0x85155806A0e740063Ef407552c287AF8ee1efA9f",
+			"BondingEvent": "0xE05aE0526187414Fd83dcba614d1cF68fd4F2e14",
+			"BondStorage": "0x38F02231A04eF63a79333f31A081F05303111d46",
+			"StandardTokenGateway": "0x0885e61Dc134A4B9BF1c2305A6e465bEE9391Dc8",
+			"OperatorStage2": "0xcA8aDbe0dd5cB906a8807800c0B2e23D4819aaf8",
 			"StakingDirectory": "0xd4096ede12979d27439bc2b43fc5d02b1a4b6dfd"
 		}
 	},
