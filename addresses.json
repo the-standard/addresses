@@ -28,7 +28,7 @@
 			"TokenManager": "0xd1a403d001c49114cf425b0e0a397069f2f399f6",
 			"BondingCurve": "0x5c07e47463fe36fcc55081a8421ed342139d852e",
 			"BondingEvent": "0xb3DEA8aF582eFc824e398761e81AC8176e76e3C9",
-			"BondStorage": "0xD0B96C3C16C69CAEe559afF4bF00aC56c51e7b7d",
+			"BondStorage": "0x0d3F44eC99Eb24C9FB47D7D008B4ee1c20a1b84C",
 			"StandardTokenGateway": "0xF73E2Ff8764A2534bdC385B9a0EdBEF4f45903cc",
 			"OperatorStage2": "0xdDCc5E423500156989B25D6BdeA311C4d2D85c25",
 			"StakingDirectory": "0xd4096ede12979d27439bc2b43fc5d02b1a4b6dfd"
