@@ -1,0 +1,37 @@
+{
+	"mainnet": {
+		"TOKEN_ADDRESSES": {
+			"TST": "0xE9C8Ec4193C8018A682844DC8D1D242ce1fD6F18",
+			"SEURO": "0x5D2bef2708ef0AE10E783F9161572a31cE0B4A09"
+		},
+		"CONTRACT_ADDRESSES": {
+			"SEuroOffering": "0x3c4345d98f8bc2530e272983f2bcebc8fc002623",
+			"SEuroCalculator": "0x8964be76e1796fa009d1a9bd88d0295b504f8e84",
+			"TokenManager": "0xd5a4eb8f2569a2cbd68d6fc55e41cf3e2a4eb9fb",
+			"BondingCurve": "0x85851f9b19ba4416acdd8fc7b2ef284e4d5277f8",
+			"BondingEvent": "0xE05aE0526187414Fd83dcba614d1cF68fd4F2e14",
+			"BondStorage": "0x38F02231A04eF63a79333f31A081F05303111d46",
+			"StandardTokenGateway": "0x0885e61Dc134A4B9BF1c2305A6e465bEE9391Dc8",
+			"OperatorStage2": "0xcA8aDbe0dd5cB906a8807800c0B2e23D4819aaf8",
+			"StakingDirectory": "0xf0B20D1E08f08d0e49233FE433DF95A86F300DF2"
+		}
+	},
+	"goerli": {
+		"TOKEN_ADDRESSES": {
+			"FTST": "0xE9C8Ec4193C8018A682844DC8D1D242ce1fD6F18",
+			"FUSDT": "0x9f2bc178accb7172208b9ad07b505b7e1661661a",
+			"SEURO": "0x5D2bef2708ef0AE10E783F9161572a31cE0B4A09"
+		},
+		"CONTRACT_ADDRESSES": {
+			"SEuroOffering": "0xc894a35fe9b6380fc9c6624506b9895da15b8e43",
+			"SEuroCalculator": "0x9fb8dcb25b165b249938f15e6b4b8c6136bbd1da",
+			"TokenManager": "0xd1a403d001c49114cf425b0e0a397069f2f399f6",
+			"BondingCurve": "0x5c07e47463fe36fcc55081a8421ed342139d852e",
+			"BondingEvent": "0xb3DEA8aF582eFc824e398761e81AC8176e76e3C9",
+			"BondStorage": "0x0d3F44eC99Eb24C9FB47D7D008B4ee1c20a1b84C",
+			"StandardTokenGateway": "0xF73E2Ff8764A2534bdC385B9a0EdBEF4f45903cc",
+			"OperatorStage2": "0xdDCc5E423500156989B25D6BdeA311C4d2D85c25",
+			"StakingDirectory": "0xd4096ede12979d27439bc2b43fc5d02b1a4b6dfd"
+		}
+	}
+}
