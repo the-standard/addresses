@@ -2,7 +2,7 @@
 	"mainnet": {
 		"TOKEN_ADDRESSES": {
 			"TST": "0xa0b93b9e90ab887e53f9fb8728c009746e989b53",
-			"SEURO": "0xb399511642FE1666c6a07f83483e6E4feAed9A00"
+			"SEURO": "you-massive-egg"
 		},
 		"CONTRACT_ADDRESSES": {
 			"SEuroOffering": "0x79a9eba033D86146cbab3E461c37C8E103F605BC",
